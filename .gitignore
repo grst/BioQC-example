@@ -1,2 +1,4 @@
-*.html
 *_cache
+*_files
+*.md 
+*.Rmd
